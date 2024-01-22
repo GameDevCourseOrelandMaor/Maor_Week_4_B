@@ -465,6 +465,10 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -6302549284657616989, guid: 5bc6dd90fef0c234d9e79a0644127eb1, type: 3}
+      propertyPath: prefabToSpawn
+      value: 
+      objectReference: {fileID: 1744079003375760424, guid: 787656e6a7e59144cac3e634670bb87f, type: 3}
+    - target: {fileID: -6302549284657616989, guid: 5bc6dd90fef0c234d9e79a0644127eb1, type: 3}
       propertyPath: velocityOfSpawnedObject.z
       value: -30
       objectReference: {fileID: 0}
