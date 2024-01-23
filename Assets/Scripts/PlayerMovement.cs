@@ -13,18 +13,15 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] float speed = 10f;
 
     [SerializeField] InputAction moveHorizontal = new InputAction(type: InputActionType.Button);
-    [SerializeField] InputAction moveVertical = new InputAction(type: InputActionType.Button);
 
     void OnEnable()
     {
         moveHorizontal.Enable();
-        moveVertical.Enable();
     }
 
     void OnDisable()
     {
         moveHorizontal.Disable();
-        moveVertical.Disable();
     }
 
     float horizontal;
