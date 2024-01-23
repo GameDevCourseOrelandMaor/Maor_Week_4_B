@@ -1,4 +1,4 @@
-﻿# gameDev_Week_4_B
+﻿# Maor_Week_4_B
 <br/>This game demo is inspired from Tetris Race - a car needs to drive forward while dodging incoming cars.<br/>
 I mainly followed the instructions and principles from previous lecture to make this game.<br/>
 
