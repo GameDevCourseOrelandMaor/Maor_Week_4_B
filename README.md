@@ -1,4 +1,8 @@
 ﻿# Maor_Week_4_B
+
+Itch.io link:
+[Click here to play](https://maor55.itch.io/week-4-question-b)
+
 <br/>This game demo is inspired from Tetris Race - a car needs to drive forward while dodging incoming cars.<br/>
 I mainly followed the instructions and principles from previous lecture to make this game.<br/>
 
@@ -18,6 +22,3 @@ this way, whenever the car hits the walls, a knockback vector is added to the ca
 Used the assets from the Unity Assests Store:
 [ARCADE: FREE Racing Car](https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085)
 
-Itch.io link:
-
-[Click here to play](https://maor55.itch.io/week-4-question-b)
